@@ -1,0 +1,9 @@
+# unnecessay files
+backup.txt
+
+# IDE
+.idea/
+.vscode/
+
+# other
+__pycache__/
