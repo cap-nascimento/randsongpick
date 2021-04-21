@@ -1,5 +1,7 @@
 # unnecessay files
 backup.txt
+songs.txt
+daily_playlist.txt
 
 # IDE
 .idea/
