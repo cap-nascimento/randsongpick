@@ -1,3 +1,4 @@
+* 100 gecs
 * 10cc - [1/12]
 
 	6. Bloody Tourists
@@ -10,6 +11,8 @@
 * 2Pac
 * 4Minute
 * 7!!
+* A. G. Cook
+* A.R. Rahman
 * A.X.L - [2/6]
 
 	3. A Vida de Axel Alberigi: Antes de Tudo
@@ -48,16 +51,22 @@
 * Aimyon
 * Aldair Playboy
 * Aldious
-* Algorithm, The - [1/7]
+* Algorithm, The - [2/7]
 
 	1. Compiler Optmization Techniques
+	3. Brute Force
 
-* Ali Project - [2/36]
+* Ali Project - [3/36]
 
 	8. Fantasia
 	23. 禁書
+	25. dotHack//Roots Original Soundtrack 2
 
 * Alkaline Trio
+* Allie X - [1/7]
+
+	7. Collxtion I
+
 * Almah
 * Almir Rouche - [1/9]
 
@@ -78,6 +87,7 @@
 
 * Amado Batista
 * Amazan
+* Ami Ozaki
 * Amon Amarth - [1/14]
 
 	10. Versus The World
@@ -93,6 +103,10 @@
 	3. Time to Be Free
 
 * André Rio
+* Anelis Assumpção - [1/3]
+
+	3. Sou Suspeita Estou Sujeita Não Sou Santa
+
 * Angra - [1/15]
 
 	4. Aqua
@@ -113,35 +127,47 @@
 
 	9. The Sound of Live Noise: Live at the Wallace Civic Centre
 
-* Antonio Carlos Jobim
+* Antonio Carlos Jobim - [1/51]
+
+	13. Focus - O Essencial De Miucha E Tom Jobim
+
 * Anvil
+* Aphex Twin
 * Aqua Timez
 * Ara Ketu - [1/16]
 
 	13. Ara Ketu Dez
+
+* Arca - [1/7]
+
+	2. KiCki
 
 * Arch Enemy - [1/15]
 
 	14. Wages of Sin
 
 * Architects
-* Arctic Monkeys - [3/7]
+* Arctic Monkeys - [4/7]
 
 	1. Live at the Royal Albert Hall
 	3. AM
+	5. Humbug
 	7. Whatever People Say I Am, That's What I'm Not
 
 * Ariana Grande
+* Arijit Singh
 * Arthur Gunn - [1/2]
 
 	1. Self-Titled
 
+* As Baías
 * Asa de Águia
 * Asas Livres - [2/43]
 
 	15. Voando Até Você, Vol 1 (Ao Vivo)
 	25. Ao Vivo em Petrolina, PE
 
+* Ashnikko
 * Asian Kung-Fu Generation - [1/16]
 
 	16. 君繋ファイブエム
@@ -150,18 +176,22 @@
 
 	5. Death
 
-* Astor Piazzolla
-* Astrud Gilberto
-* At The Gates - [2/10]
+* Astor Piazzolla - [1/173]
 
+	88. Piazzolla 4 Seasons of Buenos Aires
+
+* Astrud Gilberto
+* At The Gates - [3/10]
+
+	7. The Red In The Sky Is Ours (Deluxe)
 	9. Terminal Spirit Disease
 	10. With Fear I Kiss the Burning Darkness
 
-* Ataris, The - [1/11]
+* Ataris, The - [2/11]
 
 	1. Live in Chicago 2019
+	2. So Long, Astoria Demos
 
-* Atlas Genius
 * Atlas Genius - [2/4]
 
 	3. When It Was Now (Deluxe Edition)
@@ -171,6 +201,7 @@
 * Audioclan
 * Audioslave
 * Austrian Death Machine
+* Ava Rocha
 * Ave Sangria - [1/2]
 
 	2. Ave Sangria
@@ -179,6 +210,10 @@
 
 	5. Aviões do Forró, Vol 1 & 2 (Super 10)
 
+* Ayesha Erotica
+* Azealia Banks
+* Azzy
+* BIA DOXUM
 * BLACKPINK
 * BRADIO - [1/3]
 
@@ -189,6 +224,7 @@
 	4. MAP OF THE SOUL: PERSONA
 	12. The Most Beautiful Moment in Life Pt 2
 
+* Baby Keem
 * Back-On - [1/7]
 
 	3. RELOAD
@@ -213,11 +249,16 @@
 	33. Irio de Paula (AMIGO BADEN - Acoustic Guitar)
 	48. Canta Vinicius de Moraes e Paolo Césa Pinheiro
 
-* Band-Maid - [1/6]
+* Bali Baby - [1/5]
 
+	4. Bubbles Bali
+
+* Band-Maid - [2/6]
+
+	1. Unseen World
 	4. Brand New MAID
 
-* Banshee
+* Barbra Streisand
 * Baroness - [2/7]
 
 	2. Purple
@@ -250,6 +291,7 @@
 	2. Atrévete
 	20. Its My Party
 
+* Bebé
 * Beethoven
 * Behemoth - [2/15]
 
@@ -257,7 +299,10 @@
 	14. Satanica
 
 * Belzebubs
-* Benediction
+* Benediction - [1/9]
+
+	7. Grind Bastard
+
 * Beth Carvalho - [1/36]
 
 	28. Suor no Rosto
@@ -282,6 +327,7 @@
 	2. U
 	3. Capacity
 
+* Big Time Rush
 * Bikini Kill - [4/5]
 
 	2. The First Two Records
@@ -289,6 +335,7 @@
 	4. Reject All American
 	5. Pussy Whipped
 
+* Billie Eilish
 * Biohazard
 * Biquini Cavadão
 * Black Alien - [1/4]
@@ -305,6 +352,7 @@
 	3. In My Head
 	5. Loose Nut
 
+* Black Gryph0n
 * Black Moth
 * Black Sabbath - [3/26]
 
@@ -330,12 +378,18 @@
 	5. At The Edge of Time
 
 * Blink-182
+* Blondie - [1/18]
+
+	3. Pollinator
+
+* BloodPop®
 * Blue Encount
 * Blut Aus Nord - [2/16]
 
 	6. 777 - Cosmosophy
 	7. 777 - The Desanctification
 
+* Bo Burnham
 * Body Count - [2/8]
 
 	4. Murder 4 Hire
@@ -346,6 +400,7 @@
 	2. Roda de Samba do Bom Gosto, Vol 2: Do Jeito Que o Povo Gosta (Ao Vivo)
 	5. Bom Gosto ao Vivo
 
+* Boney M.
 * Bonnie Pink - [2/5]
 
 	2. Evil and Flowers
@@ -366,14 +421,18 @@
 * Brand New
 * Bratmobile
 * Breakbot
-* Brian The Sun - [3/6]
+* Bree Runway
+* Brent Faiyaz
+* Brian The Sun - [4/6]
 
+	3. the Sun
 	4. パトストエートス
 	5. Brian The Sun
 	6. NON SUGAR
 
-* Bring Me The Horizon - [1/10]
+* Bring Me The Horizon - [2/10]
 
+	6. Sempiternal (Expanded Edition)
 	8. Suicide Season (Deluxe Edition)
 
 * Bruce Springsteen - [1/31]
@@ -385,11 +444,13 @@
 	5. Get Up
 	16. Waking Up THe Neighbours
 
-* Buckethead - [2/66]
+* Buckethead - [3/66]
 
 	1. Healing Inside Outside Every Side
+	16. Calamity Cabin
 	39. Racks
 
+* Budah
 * Buddy Rich
 * Bumblefoot
 * Burnout Syndromes - [2/6]
@@ -407,7 +468,10 @@
 
 	11. Chronology
 
+* C2d
 * CJ
+* CMTEN
+* COUCOU CHLOE
 * Cabruêra - [2/5]
 
 	2. Cabruêra
@@ -421,6 +485,7 @@
 	54. Muitos Carnavais
 	56. Qualquer Coisa
 
+* Cage The Elephant
 * Camisa Suada
 * Camisa de Vênus
 * Cannibal Corpse - [1/18]
@@ -428,7 +493,10 @@
 	3. Torturing And Eviscerating
 
 * Capital Inicial
-* Cardi B
+* Cardi B - [1/4]
+
+	2. Invasion of Privacy
+
 * Carly Rae Jepsen - [1/6]
 
 	6. Tug Of War
@@ -442,32 +510,36 @@
 	6. Play On
 
 * Carters, The
-* Cassius
+* Cassius - [1/7]
+
+	7. 1999 (Deluxe)
+
 * Castello Branco - [2/4]
 
 	1. Sermão
 	3. Sintoma
 
+* Casulo
 * Cat Dealers - [1/47]
 
 	16. Party Everyday
 
 * Cavaleiros do Forró
+* Cavetown
 * Cayetana - [1/2]
 
 	1. New Kind of Normal
 
 * Chara
+* Charli XCX
 * Charlie Parker
-* Charly Bliss - [1/2]
-
-	1. Young Enough
-
 * Chatmonchy
+* Chauncey666
 * Cheiro de Amor - [1/21]
 
 	5. Axé Bahia
 
+* Chester Lockhart
 * Chickenfoot
 * Chiclete Com Banana - [1/36]
 
@@ -483,9 +555,11 @@
 * Chitaozinho & Xororo
 * Chloe x Halle
 * Chris Clark
-* Christafari - [2/30]
+* Chris de Burgh
+* Christafari - [3/30]
 
 	3. Musicianaries: At Any Cost
+	15. Reggae Worship: A Roots Revival
 	23. Soca Baptism
 
 * Christina Aguilera - [2/9]
@@ -494,6 +568,9 @@
 	6. Just Be Free
 
 * Ciara
+* Cigarettes After Sex
+* CircusP
+* Clarence Clarity
 * ClariS
 * Clash, The - [1/9]
 
@@ -512,10 +589,13 @@
 	11. Blast Tyrant (Deluxe Edition)
 	12. Live at the 9:30
 
+* Cold Hart
 * Coldplay
-* Coldrain - [1/7]
+* Coldrain - [3/7]
 
 	2. FATELESS
+	5. The Revelation
+	6. The Enemy Inside
 
 * Colo de Deus - [4/20]
 
@@ -525,9 +605,10 @@
 	12. Adoração na Nosa Casa É Assim 4 (Ao Vivo)
 
 * Comethazine
-* Conde Só Brega - [1/3]
+* Conde Só Brega - [2/3]
 
 	1. Live Dia das Mães (Somax Live Session)
+	3. Conde Só Brega, Vol 2
 
 * ConeCrewDiretoria
 * Conkarah
@@ -542,7 +623,12 @@
 	1. Mis-Take
 
 * Coral Bloco da Saudade
-* Craig Chaquico
+* Costa Gold
+* Count Baldor
+* Craig Chaquico - [1/11]
+
+	2. Follow The Sun
+
 * Criolo - [2/7]
 
 	3. Ainda Há Tempo
@@ -554,14 +640,19 @@
 	4. Rise
 
 * Critical Mess
-* Crystal Lake
+* Crystal Lake - [1/3]
+
+	3. Cubes
+
 * Cuarteto Mayari
+* Cults
 * Cutting Crew
 * Cynic - [2/7]
 
 	1. Traced in Air Remixed
 	5. The Portal tapes
 
+* Céu
 * D.R.I. - [1/13]
 
 	6. Dirty Rotten Hitz
@@ -571,6 +662,7 @@
 	3. Remember Us: Youth Part 2
 	5. MOONRISE
 
+* DIVINE
 * DJ Scheme
 * DOES
 * DaBaby - [3/9]
@@ -590,10 +682,12 @@
 	5. Beyond the Pale
 
 * Damned, The
+* Dan Salvato
 * Daniel
-* Danzig - [1/8]
+* Danzig - [2/8]
 
 	2. Black Laden Crown
+	3. Skeletons
 
 * Dark Moor
 * Daughters - [1/5]
@@ -605,11 +699,13 @@
 	5. Live Trax Vol 27: Luna Park, Buenos Aires, Argentina
 
 * David Guetta
-* Dead Kennedys - [3/11]
+* Dead Fish
+* Dead Kennedys - [4/11]
 
 	1. Iguana Studios Rehearsal Tape - San Francisco 1978
 	2. DK 40
 	3. Milking The Scared Cow
+	9. Bedtime For Democracy
 
 * Deafheaven
 * Death
@@ -645,12 +741,17 @@
 
 	2. Sorry, Mom
 
-* Detonautas Roque Clube
+* Detonautas Roque Clube - [1/13]
+
+	2. VI
+
 * Devin Townsend Project
+* Dexys Midnight Runners
 * Diamond Head - [1/14]
 
 	6. It's Electric
 
+* Diana Ross
 * Diego & Arnaldo
 * Digitalism - [1/6]
 
@@ -669,19 +770,29 @@
 
 	6. Unraveling
 
+* Divine Sweater
+* Djonga - [2/7]
+
+	5. Ladrao
+	6. O MENINO QUE QUERIA SER DEUS
+
 * Djuma Soundsystem - [2/3]
 
 	2. Get Physical Presents: Full Body Workout, Vol 19 - Mixed by Djuma
 	3. Remixed
 
 * Doce Encontro
-* Doja Cat
+* Doja Cat - [1/4]
+
+	3. Amala (Deluxe Version)
+
 * Dona Onete - [1/4]
 
 	3. Banzeiro
 
 * Doobie Brothers, The
 * Dorgival Dantas
+* Dorian Electra
 * Dorival Caymmi - [2/24]
 
 	9. Collection
@@ -691,11 +802,13 @@
 
 	3. Strong and Proud
 
+* Doss
 * Downset
 * Dr Sin - [1/14]
 
 	14. Dr Sin
 
+* Dr. Dog
 * Dragonforce - [1/12]
 
 	8. Twilight Dementia
@@ -730,6 +843,7 @@
 	16. EXOLOGY CHAPTER 1: THE LOST PLANET (Live)
 	17. The 1st Album 'XOXO' (Repackage)
 
+* Earth, Wind & Fire
 * Ed Motta
 * Ed Sheeran - [2/9]
 
@@ -751,8 +865,10 @@
 	4. Electric Light Orchestra Live
 	9. Xanadu - Original Motion Picture
 
-* Elis Regina - [2/63]
+* Eli Soares
+* Elis Regina - [3/63]
 
+	19. Gold
 	39. Essa Mulher
 	49. 
 
@@ -770,6 +886,7 @@
 
 	4. Halcyon Days
 
+* Elton John
 * Elza Soares
 * Emicida - [1/9]
 
@@ -791,6 +908,7 @@
 
 	4. Rekreatur
 
+* Era
 * Ergs, The - [1/6]
 
 	5. The Ergs Live at Maxwell's 06/25/2005
@@ -800,11 +918,15 @@
 	1. EJ Vol II
 	9. Tones
 
-* Erica Banks
+* Erica Banks - [1/5]
+
+	3. Cocky on Purpose
+
 * Eskimo Callboy - [1/6]
 
 	3. The Scene
 
+* Esthie
 * Evanescence - [2/8]
 
 	3. Lost Whispers
@@ -814,10 +936,16 @@
 
 	19. Luz Do Desejo
 
+* Eyedress
+* F R David - [1/6]
+
+	6. Words
+
 * FISHER
-* FLOW - [2/21]
+* FLOW - [3/21]
 
 	8. 26 a Go Go !!!
+	15. #5
 	19. Coupling Collection
 
 * Faceless, The - [1/4]
@@ -837,6 +965,7 @@
 	4. The Fall of an Empire
 
 * Faith No More
+* Fana Hues
 * Farruko
 * Fat Boys
 * Fates Warning - [3/23]
@@ -845,11 +974,15 @@
 	9. Disconnected 
 	19. No Exit - 25th Anniversary Edition
 
-* Fear, and Loathing in Las Vegas - [1/7]
+* Fear, and Loathing in Las Vegas - [2/7]
 
+	2. New Sunrise
 	7. Dance & Scream
 
-* Felipe Araújo
+* Felipe Araújo - [1/5]
+
+	4. Esquenta do Felipe Araújo
+
 * Felipe Rodriguez - [1/17]
 
 	10. Rodríguez: Fortepiano Works
@@ -859,8 +992,9 @@
 	2. The Dutchess Deluxe
 
 * Fernandinho
-* Ferrugem - [1/6]
+* Ferrugem - [2/6]
 
+	4. Prazer, eu sou Ferrugem (Ao vivo)
 	5. Seja o que Deus quiser
 
 * Fifth Harmony
@@ -870,6 +1004,7 @@
 	2. Eletrocardiograma
 
 * Foreigner
+* Forfun
 * Forró Boys
 * Forró Perfeito
 * Foster The People - [2/3]
@@ -877,27 +1012,30 @@
 	1. Sacred Hearts Club
 	2. Supermodel
 
-* Four Year Strong
+* Four Year Strong - [1/8]
+
+	3. Rise or Die Trying (10 Year Anniversary Edition)
+
+* Frances Forever
 * Frank Ocean
-* Frank Sinatra - [2/78]
+* Frank Sinatra - [3/78]
 
 	19. She Shot Me Down
+	40. Sinatra At The Sands
 	67. Come Fly With Me (Remastered)
 
+* Freddie Dredd
 * Frederic
 * Frejat - [1/8]
 
 	6. Intimidade Entre Estranhos
 
+* Froid
 * Frédéric Chopin - [1/16]
 
 	7. Chopin: Music for focus
 
 * Full Of Hell
-* Fulô de Mandacaru - [1/3]
-
-	3. Somos Todos Fulô de Mandacaru - Ao Vivo
-
 * Funkist
 * G-DRAGON
 * GOT7 - [1/14]
@@ -908,11 +1046,18 @@
 
 	1. I Sold My Soul To The Devil When I Was 12
 
+* Gab3
 * Gabriel Lener
-* Gackt - [2/15]
+* Gabz - [1/12]
+
+	11. Bota a Cara
+
+* Gackt - [4/15]
 
 	1. GACKT's - 45th Birthday Concert - LAST SONGS
 	6. BEST OF THE BEST (Vol 1 WILD)
+	7. 0079-0088
+	13. MOON
 
 * Gal Costa
 * Galileo Galilei
@@ -954,10 +1099,12 @@
 
 	5. Infestissumam
 
+* Ghostemane
 * Ghoul - [1/5]
 
 	3. Splatterthrash
 
+* Giga
 * Gilberto Gil - [1/66]
 
 	46. O Viramundo (Ao Vivo) (Vol 2)
@@ -972,13 +1119,16 @@
 
 	14. Too Bad
 
+* Glass Animals
+* Glitch Gum
 * Go West - [1/7]
 
 	4. Indian Summer
 
 * Godsmack
-* Going Under Ground - [1/9]
+* Going Under Ground - [2/9]
 
+	4. おやすみモンスター
 	6. h
 
 * Gojira - [3/9]
@@ -995,7 +1145,9 @@
 	6. Companion
 
 * Good Charlotte
+* Gorillaz
 * Granrodeo
+* Grateful Dead
 * Grave Digger - [1/26]
 
 	13. 25 to Live
@@ -1015,12 +1167,15 @@
 
 	5. Never Trust a Happy Song
 
+* Grover Washington, Jr
 * Grupo Clareou
-* Grupo Revelação - [2/22]
+* Grupo Revelação - [3/22]
 
+	8. O Bom Samba Continua - Ao Vivo Vol2
 	15. Velocidade da Luz
 	21. Virou Religião
 
+* Gucci Mane
 * Guga Nandes - [1/2]
 
 	1. Pra Não Desgrudar (Ao Vivo)
@@ -1035,11 +1190,15 @@
 	2. Gustavo Mioto Ao Vivo em Fortaleza
 
 * Guthrie Govan
-* Gwen Stefani
+* Gwen Stefani - [1/8]
+
+	5. This Is What The Truth Feels Like
+
 * H.E.R. - [1/5]
 
 	4. HER Volume 2
 
+* H3artcrush
 * HYDE
 * Halestorm - [2/8]
 
@@ -1083,6 +1242,7 @@
 	4. Novas Histórias (Ao Vivo) - Deluxe
 
 * Henrique Cazes
+* Herbert Vianna
 * High On Fire - [1/11]
 
 	2. Luminiferous
@@ -1107,6 +1267,8 @@
 
 	12. アコギな二人旅だぜ!!
 
+* Hobo Johnson
+* Hop Along
 * Hotel Books
 * House Of Pain - [1/3]
 
@@ -1126,10 +1288,13 @@
 	8. Keinzeitmensch (Audio Version)
 	9. Schutt und Asche (Live)
 
+* IC3PEAK
+* IDK
 * INXS - [1/15]
 
 	6. Welcome To Wherever You Are (Remastered)
 
+* Iara Rennó
 * Iced Earth - [2/19]
 
 	3. Plagues of Babylon
@@ -1168,13 +1333,16 @@
 
 	12. Entre Seus Rins
 
-* Isis - [1/16]
+* Isis - [2/16]
 
 	8. Live III 12/17/04
+	13. Live II 03 19 03
 
 * Iza
 * J Balvin
+* JAEHYUN
 * JAY-Z
+* JIMMY EDGAR
 * JJ Project
 * Ja Rule - [2/8]
 
@@ -1191,6 +1359,7 @@
 
 	4. Infinite Darkness EP
 
+* Jadsa
 * James Blunt - [3/10]
 
 	5. Moon Landing
@@ -1201,6 +1370,7 @@
 
 	17. Epiphany
 
+* Jamie Paige
 * Jan Hammer - [2/11]
 
 	8. Escape From Television
@@ -1223,7 +1393,10 @@
 
 * Jay Park
 * Jaymes Young
-* Jazmin Bean
+* Jazmin Bean - [1/8]
+
+	1. R U Looking 4 Me Now
+
 * Jeff Beck - [1/26]
 
 	16. Crazy Legs
@@ -1248,7 +1421,10 @@
 	2. Sweet Talker (Deluxe Version)
 	5. Who you Are (Platinum Edition)
 
-* Jetlag Music
+* Jetlag Music - [1/47]
+
+	7. Roda Gigante (PRINSH Remix)
+
 * Jheo Chavoso
 * Jimi Hendrix - [1/24]
 
@@ -1274,8 +1450,12 @@
 	18. Tucker Soundtrack - The Man And His Dream
 	19. Volume 4
 
-* Joe Satriani
+* Joe Satriani - [1/28]
+
+	6. What Happens Next
+
 * Johann Sebastian Bach
+* John Lennon
 * John Mayer - [1/15]
 
 	6. Continuum
@@ -1290,34 +1470,46 @@
 
 	1. Jonas In Brasília (Ao Vivo)
 
+* Jonathan Yhome
 * Jordan Rudess - [2/12]
 
 	4. Christmas Sky
 	7. Unplugged
 
-* Jorge & Mateus - [2/13]
+* Jorge & Mateus - [3/13]
 
 	8. A Hora É Agora - Ao Vivo Em Jurerê
 	12. Sem Cortes
+	13. O Mundo É Tão Pequeno
 
+* Josh A
+* Josyara
 * Jota Quest - [1/20]
 
 	14. Jota Quest exclusivo Hermes
+
+* Joy Again - [1/2]
+
+	1. Piano
 
 * Joyce Manor - [2/6]
 
 	3. Cody
 	5. ST
 
-* Joywave - [1/6]
+* Joywave - [2/6]
 
+	1. Possession
 	5. 88888 (Mixtape)
 
 * Judas Priest - [1/21]
 
 	7. Angel Of Retribution
 
+* Julian Casablancas
 * Julien Baker
+* Jun Togawa
+* Junko Ohashi
 * Justice
 * Justin Bieber - [3/12]
 
@@ -1327,7 +1519,12 @@
 
 * Justin Timberlake
 * Justine Skye
-* Jé Santiago
+* Juçara Marçal
+* Jé Santiago - [1/4]
+
+	2. O Bagulho é Trap
+
+* K.Flay
 * KANA-BOON - [1/7]
 
 	3. KBB vol 1
@@ -1338,6 +1535,13 @@
 
 * KILLY
 * KOBUKURO
+* KR$NA
+* KYLE
+* Kahlil4mb
+* Kali Uchis
+* Kant
+* Kaoru Akimoto
+* Karina Buhr
 * Karol Conká
 * Kataklysm
 * Kate Bush - [1/13]
@@ -1369,12 +1573,17 @@
 	8. Section
 
 * Kesha
+* KevinKempt - [1/2]
+
+	1. middle of a stage
+
 * Khappa - [2/4]
 
 	1. Pure Energy
 	4. Latido
 
 * Kiana Ledé
+* Kikuo
 * Kim Petras - [1/3]
 
 	1. TURN OFF THE LIGHT
@@ -1384,14 +1593,18 @@
 	2. Absent Lovers (Live in Montreal, 1984)
 	11. Live In Toronto
 
+* Kinneret
+* Kiyotaka Sugiyama
 * Kleber Lucas - [1/27]
 
 	4. Pela Fé
 
+* Kool & The Gang
 * Korn - [1/18]
 
 	4. The Paradigm Shift (World Tour Edition)
 
+* Kousuke Atari
 * Kreator
 * Kvelertak
 * Kylesa
@@ -1406,6 +1619,10 @@
 	14. Walking With A Panther
 
 * LM.C
+* LSDXOXO - [1/8]
+
+	5. Tasty
+
 * La Viela
 * Lacuna Coil - [2/13]
 
@@ -1418,6 +1635,9 @@
 	8. The Fame Monster (International Deluxe)
 
 * Lagum
+* LamazeP
+* Lana Del Rey
+* Larissa Luz
 * Las Tres Guitarras
 * Lauana Prado - [3/4]
 
@@ -1426,15 +1646,19 @@
 	4. Ensaio Acústico
 
 * Laura Branigan
+* Laura Les
 * Legião Urbana
 * Leo Santana - [2/7]
 
 	4. Macaco Sessions: Léo Santana (Ao Vivo)
 	7. #Bailedasantinha (Ao Vivo em Fortaleza)
 
+* Lesley Gore
+* Letrux
 * Levi The Poet
-* Lexa - [1/3]
+* Lexa - [2/3]
 
+	2. LEXA
 	3. Disponível
 
 * LiSA - [2/8]
@@ -1442,14 +1666,16 @@
 	2. Little Devil Parade
 	6. LANDSPACE
 
+* Liana Flores
 * Lich King - [1/6]
 
 	6. Necromantic Maelstrom
 
 * Lil Gnar
-* Lil Mosey - [1/3]
+* Lil Mosey - [2/3]
 
 	1. Certified Hitmaker (AVA Leak)
+	2. Certified Hitmaker
 
 * Lil Nas X
 * Lil Peep - [2/5]
@@ -1458,23 +1684,31 @@
 	4. Come Over When You're Sober, Pt 2
 
 * Lil Pump
+* Lil Texas
 * Lil Tracy
-* Lil' Lixo - [2/9]
+* Lil' Lixo - [3/9]
 
+	3. Dreadhot
 	5. Gangsta de Internet
 	7. Super Dissgraca Gang2
 
+* Lily Allen
+* Limbo
 * Limp Bizkit - [1/8]
 
 	2. Gold Cobra (Deluxe)
 
 * Limão Com Mel
 * Lindemann
+* Ling tosite sigure
+* Liniker
 * Lionel Richie - [1/15]
 
 	4. Just Go
 
+* Lipps Inc
 * Liverpool
+* Livia Nery
 * Living Colour - [2/15]
 
 	11. STAIN
@@ -1490,6 +1724,7 @@
 	4. Monstereophonic (Theaterror vs Demonarchy)
 	8. Deadache
 
+* Louie Ray
 * Louis Armstrong - [3/134]
 
 	29. The Complete Newport 1956 & 1958 Recordings
@@ -1504,28 +1739,37 @@
 
 	5. Tá Diferente
 
-* Lucas Silveira - [3/8]
+* Lucas Silveira - [4/8]
 
 	2. DÓI PA UM CARAIO
 	3. Di Boa Sessions 4
+	4. Di Boa Sessions 4
 	5. Soundtrack for an Anime That Never Existed
 
-* Ludacris - [2/11]
+* Ludacris - [3/11]
 
 	3. Battle Of The Sexes (Deluxe)
 	7. Ludacris Presents
+	10. Back For The First Time
 
 * Ludmilla
+* Luedji Luna
+* Luiza Brina
+* Luiza Lian
 * Luiza Sonza - [1/34]
 
 	30. Luíza Sonza - EP
 
+* Luka Megurine
+* Lukrative
+* Lund
 * Luther Vandross
 * Luíza & Maurílio - [1/4]
 
 	2. Segunda Dose
 
-* MADKID
+* Lykke Li
+* M Takara
 * MAGIC! - [1/3]
 
 	3. Don't Kill the Magic
@@ -1553,22 +1797,28 @@
 	1. M9
 
 * MC Neguinho do Kaxeta
-* MC Pedrinho - [1/3]
+* MC Pedrinho - [2/3]
 
 	2. Cédulas e Sonhos
+	3. La Laguna Del Mar
 
 * MC Rogerinho
 * MC WM
-* MIYAVI
+* MGMT
+* MIYAVI - [1/19]
+
+	15. -THIS IZ THE JAPANESE KABUKI ROCK-
+
 * MUCC - [1/20]
 
 	2. Aku
 
 * MV Bill
 * Mac Miller
-* Machine Gun Kelly - [1/7]
+* Machine Gun Kelly - [2/7]
 
 	5. bloom
+	6. General Admission
 
 * Maciel Melo - [4/9]
 
@@ -1577,9 +1827,13 @@
 	5. Perfume de Carnaval
 	6. Debaixo do Meu Chapéu
 
+* Maddie Jay
+* Mag.Lo
 * Maggie Rogers
 * Magic Man
+* Mahmundi
 * Maiara & Maraisa
+* Majur
 * Malla 100 Alça
 * Maluma
 * Mamamoo
@@ -1601,6 +1855,13 @@
 	7. Samba Solstice
 
 * Marcos Almeida
+* Maretu
+* Maria Beraldo
+* Maria Bethânia - [1/68]
+
+	46. Dezembros
+
+* Maria Gadú
 * Marilia Mendonça
 * Marillion - [4/51]
 
@@ -1609,6 +1870,7 @@
 	33. Somewhere Else
 	39. Made Again (Live)
 
+* Marina Sena
 * Mart'nália
 * Martha - [2/3]
 
@@ -1634,9 +1896,11 @@
 	2. Coraje EP
 	3. Debtal
 
-* Marvin Gaye - [1/39]
+* Marvin Gaye - [3/39]
 
+	3. Funky Nation: The Detroit Instrumentals
 	4. Live in Montreux 1980
+	5. You're The Man
 
 * Mastodon - [1/13]
 
@@ -1653,14 +1917,19 @@
 
 * Mato Seco
 * Matt And Kim
-* Maximum The Hormone
+* Maximum The Hormone - [1/5]
+
+	5. Kusoban
+
 * Mc Don Juan
 * Mc Kekel
 * Mc Rebecca - [1/40]
 
 	17. Me Chupa Me Ama
 
+* Mc Tha
 * Mc Zaac
+* McCafferty
 * Megadeth - [2/32]
 
 	14. Warchest
@@ -1670,10 +1939,12 @@
 
 	4. Fever
 
+* Meiko
 * Melim - [1/3]
 
 	2. Melim Ao Vivo
 
+* Men I Trust
 * Meshuggah - [2/16]
 
 	1. The Violent Sleep of Reason 
@@ -1684,8 +1955,9 @@
 
 	23. Kill 'Em All (Remastered)
 
-* Michael Jackson - [1/17]
+* Michael Jackson - [2/17]
 
+	6. BLOOD ON THE DANCE FLOOR / HIStory In The Mix
 	15. Music & Me
 
 * Michael Romeo
@@ -1698,15 +1970,25 @@
 
 	2. Sonic Stomp
 
+* Mikito P
+* Miku Hatsune
 * Miley Cyrus
 * Milton Nascimento
+* Mindless Self Indulgence
 * Mister Misery
+* Mitchie M
+* Mitski
 * Miwa
+* Mixed Matches
 * Modeplex - [1/4]
 
 	4. Lights
 
-* Molejo
+* Moe Shop
+* Molejo - [1/10]
+
+	1. Molejo Club
+
 * Mommy Long Legs - [1/2]
 
 	2. Life Rips
@@ -1715,9 +1997,11 @@
 
 	9. PIECE
 
-* Moody Blues, The - [3/29]
+* Mood Killer
+* Moody Blues, The - [4/29]
 
 	3. Live at Montreux 1991
+	15. Octave
 	27. Days Of Future Passed (Remastered 2017)
 	28. The Magnificent Moodies
 
@@ -1730,12 +2014,18 @@
 	4. Illud Divinum Insanus - The Remixes Complete
 	14. Altars of Madness
 
-* Morrissey - [2/16]
+* Morrissey - [4/16]
 
 	2. California Son
+	4. Low in High School
 	12. Beethoven Was Deaf
+	14. Kill Uncle (2013 Remaster)
 
-* Motörhead
+* Mother Mother
+* Motörhead - [1/47]
+
+	28. March Or Die
+
 * Mozart - [1/16]
 
 	5. Mozart: Piano 4 Hands
@@ -1761,13 +2051,18 @@
 	2. The Fatal Feast
 	4. The Art of Partying
 
+* Mura Masa
 * Murilo Couto - [3/12]
 
 	4. Roupa de Frio no Calor
 	6. Milha
 	9. Menino Tite
 
-* My Chemical Romance
+* My Chemical Romance - [1/8]
+
+	1. The Black Parade / Living with Ghosts (The 10th Anniversary Edition)
+
+* Márcia Castro
 * Mötley Crue - [2/12]
 
 	10. Theatre of Pain
@@ -1810,12 +2105,16 @@
 
 	3. ONE!
 
+* Nedarb
 * Neighbourhood, The - [1/6]
 
 	4. Wiped Out!
 
 * Neil Hilborn
-* Nelson Cavaquinho
+* Nelson Cavaquinho - [1/5]
+
+	5. Depoimento do Poeta
+
 * Nena Queiroga
 * Nenhum de Nós - [1/19]
 
@@ -1861,9 +2160,10 @@
 
 * Nogizaka46
 * Nohak
-* NoisyCell - [1/7]
+* NoisyCell - [2/7]
 
 	1. 8
+	4. Sources
 
 * Normani
 * Notorius BIG, The - [1/7]
@@ -1878,10 +2178,12 @@
 	20. Come Together
 	24. Lendas
 
+* Nívea Soares
 * O Rappa - [1/12]
 
 	4. iCollection
 
+* O Super
 * ONE OK ROCK - [3/9]
 
 	5. Zankyou Reference
@@ -1898,6 +2200,7 @@
 	2. An Autobiography
 
 * Oliver Riot
+* Olivia Newton-John
 * Olivia Rodrigo
 * One Direction - [3/5]
 
@@ -1933,40 +2236,53 @@
 * Orion Sun
 * Os Feras do Baile
 * Os Travessos
+* Oscar Scheller
 * Oswaldo Montenegro
-* Outfield, The - [1/11]
+* Outfield, The - [2/11]
 
 	3. Any Time Now
+	10. Voices Of Babylon
 
 * Overkill - [1/24]
 
 	1. The Wings of War
 
-* P!nk
+* P!nk - [1/12]
+
+	11. M!ssundaztood (Expanded Edition)
+
 * P.O.D. - [2/12]
 
 	7. Murdered Love
 	11. Satellite (US Version WEA Distribution)
 
 * PEDRO SAMPAIO
-* POLKADOT STINGRAY - [1/3]
+* POLKADOT STINGRAY - [2/3]
 
+	1. 何者
 	2. 有頂天
 
 * Pabllo Vittar
-* Pantera - [2/12]
+* Panic! At the Disco
+* Pantera - [3/12]
 
+	7. Official Live: 101 Proof
 	11. Vulgar Display of Power (Expanded)
 	12. Cowboys from Hell
 
-* Papa Roach
+* Papa Roach - [1/15]
+
+	4. Crooked Teeth (Deluxe)
+
 * Paralamas Do Sucesso, Os
 * Paramore - [1/7]
 
 	2. Paramore (Deluxe Edition)
 
-* Pat Metheny Group - [1/17]
+* Parv0
+* Pat Metheny Group - [2/17]
 
+	12. Travels
 	15. Offramp Live At The Mesa Centennial Hall, Az 26 Jul 82 (Remastered)
 
 * Patti LaBelle - [1/24]
@@ -1974,22 +2290,31 @@
 	10. Gems
 
 * Paul Gilbert
-* Paulo Ricardo
+* Paul McCartney
+* Paulo Ricardo - [1/11]
+
+	1. Toquinho e Paulo Ricardo Cantam Vinicius
+
+* Penelope Scott
 * Pepe Moreno - [1/8]
 
 	7. No Bar da Boa
 
 * Pericles
-* Periphery - [2/8]
+* Periphery - [3/8]
 
 	1. Live in London
+	2. Periphery IV: HAIL STAN
 	7. Icarus
 
+* Pest Control
+* Peter Gabriel
 * Petrúcio Amorim - [1/7]
 
 	3. Petrúcio Amorim
 
 * Pia Mia
+* Pierce The Veil
 * Pig Destroyer - [2/10]
 
 	4. Head Cage
@@ -2006,6 +2331,8 @@
 	7. Delicate Sound of Thunder (Live)
 	12. Wish You Were Here
 
+* PinkPantheress
+* Pitty
 * Pixinguinha - [3/7]
 
 	2. Os Primeiros Anos
@@ -2014,15 +2341,13 @@
 
 * Pixote
 * Planet Hemp
+* Planningtorock
+* Plustwo
 * Plácido Domingo
 * Poison - [2/15]
 
 	5. Power to the People
 	12. Open Up And Say
-
-* Polar Circles - [1/2]
-
-	1. All in the Golden Afternoon
 
 * Polyphia - [1/3]
 
@@ -2061,16 +2386,20 @@
 
 	3. Loud Is Not Enough
 
+* Punkinloveee
+* Pupil Slicer
 * Pussycat Dolls, The
 * Quavo
+* Queen
 * Queensryche - [1/28]
 
 	25. Rage For Order (Remastered) [Expanded Edition]
 
-* Quiet Riot - [2/9]
+* Quiet Riot - [3/9]
 
 	2. Truble In Tulsa (Live 1984)
 	4. Road Rage
+	7. Qr III
 
 * REO Speedwagon
 * RPM - [1/7]
@@ -2091,6 +2420,7 @@
 
 * Radiohead
 * Raffa Moreira
+* Raftaar
 * Rage
 * Raimundos - [1/16]
 
@@ -2109,8 +2439,9 @@
 
 	3. Crise
 
-* Ratatat - [1/5]
+* Ratatat - [2/5]
 
+	2. Magnifique
 	4. Classics
 
 * Raveena
@@ -2119,12 +2450,18 @@
 	1. Whales and Leeches (Deluxe Version)
 	2. Murder the Mountains (Deluxe Version)
 
-* Reginaldo Rossi - [1/32]
+* Red Velvet
+* Reginaldo Rossi - [2/32]
 
+	15. Reginaldo Rossi
 	30. Vinteum XXI - 21 Grandes Sucesso
 
 * Rei Yasuda
-* Renato Russo
+* Renato Russo - [2/7]
+
+	1. A Arte De Renato Russo
+	4. Presente
+
 * Resgate - [2/15]
 
 	4. Este lado para cima
@@ -2148,13 +2485,17 @@
 	15. Richie Kotzen Instrumental Collection: The Shrapnel Years
 	24. Project
 
+* Rico Nasty
 * Rihanna
+* Rin Kagamine
+* Rina Sawayama
 * Rincon Sapiência
 * Rise Against - [1/11]
 
 	7. Endgame
 
 * Ritchie
+* Roar
 * Rob Zombie
 * Roberta Miranda - [1/24]
 
@@ -2174,9 +2515,10 @@
 * Rose, The
 * Rosetta
 * Round Table
-* Roupa Nova - [1/32]
+* Roupa Nova - [2/32]
 
 	8. Roupa Nova 30 Anos (Ao Vivo)
+	25. Frente & Versos
 
 * Roxy Music - [3/13]
 
@@ -2185,7 +2527,13 @@
 	13. Roxy Music
 
 * Royal Blood
-* Run-DMC
+* Rubber Johnny
+* Ruel
+* Rumbora
+* Run-DMC - [1/14]
+
+	10. Down With The King
+
 * Rush
 * Ryokuoushoku Shakai - [1/2]
 
@@ -2218,9 +2566,10 @@
 
 	1. サンボマスター究極トリビュートラブフロムナカマ
 
-* Sammy Hagar - [1/26]
+* Sammy Hagar - [2/26]
 
 	10. Cosmic Universal Fashion
+	26. Nine On A Ten Scale
 
 * Sandro e Cícero
 * Sandy
@@ -2230,9 +2579,10 @@
 
 * Saweetie
 * Saxl Rose
-* Sayuri - [1/3]
+* Sayuri - [2/3]
 
 	1. Me
+	2. それは小さな光のような- special edition
 
 * Scandal - [1/14]
 
@@ -2271,21 +2621,26 @@
 	7. Oral Fixation, Vol 2 (Expanded Edition)
 
 * Shaman
-* Shawn Lane
 * Shawn Mendes - [1/12]
 
 	11. Handwritten
 
+* Shiki-TMNS
+* Shiro Sagisu
 * Shoko Nakagawa - [1/12]
 
 	10. Magic Time 
 
-* Shota Shimizu - [1/12]
+* Shota Shimizu - [2/12]
 
+	3. White
 	10. Colors
 
-* Sia - [1/14]
+* Shy Glizzy
+* Shygirl
+* Sia - [2/14]
 
+	8. We Are Born
 	12. Colour The Small One (Deluxe Edition)
 
 * Siamese Cats - [2/3]
@@ -2297,6 +2652,7 @@
 
 	2. Last Act of Defiance
 
+* Sidoka
 * SikTh - [2/4]
 
 	3. Death of a Dead Day (10th Anniversary Edition)
@@ -2304,13 +2660,22 @@
 
 * Simone & Simaria
 * Sinead Harnett
-* Skank
+* Sir Chloe
+* Sista Prod
+* Skank - [1/19]
+
+	2. Skank, Os Três Primeiros - EP Samba Poconé
+
 * Skeletonwitch - [4/5]
 
 	1. Devouring Radiant Light
 	3. Forever Abomination
 	4. Breathing the fire
 	5. Beyond the Permafrost
+
+* Ski Mask The Slump God - [1/4]
+
+	1. Sin City The Mixtape
 
 * Skid Row - [1/8]
 
@@ -2325,7 +2690,11 @@
 	9. Stoosh
 
 * Sky Love do Forró
-* Slayer
+* Slayer - [2/18]
+
+	13. Seasons In The Abyss
+	18. Show no Mercy
+
 * Slipknot - [1/10]
 
 	6. All Hope Is Gone
@@ -2336,15 +2705,19 @@
 	5. Hardworlder
 	6. Atavism
 
+* Smino
 * Smiths, The - [1/7]
 
 	5. The Queen Is Dead (Deluxe Edition)
 
 * Smokepurpp
+* Snoop Dogg
 * Socorro Lira - [1/15]
 
 	1. Chama
 
+* Soft Cell
+* Sohodolls
 * Solange
 * Som Nosso De Cada Dia
 * Sonata Arctica - [2/15]
@@ -2375,6 +2748,7 @@
 
 	3. RIP Micaela
 
+* Spiritbox
 * Splay
 * Spok Frevo Orquestra - [1/3]
 
@@ -2395,6 +2769,8 @@
 	3. Knee Deep In The Hoopla
 
 * Static-X
+* Steezy Knicks
+* Stegosaurus Rex
 * Stereopony - [2/3]
 
 	1. More! More!! More!!!
@@ -2409,16 +2785,18 @@
 
 	19. Passion And Warfare
 
-* Stevie Ray Vaughan - [2/19]
+* Stevie Ray Vaughan - [3/19]
 
 	9. The Broadcast Collection - Red Rocks Amphitheatre
 	13. Soul to Soul
+	17. Live At Montreux 1982 & 1985
 
 * Stevie T.
 * Stiff Little Fingers
-* Stone Roses, The - [3/5]
+* Stone Roses, The - [4/5]
 
 	1. Second Coming
+	2. The Stone Roses (20th Anniversary Collectors Edition)
 	4. Stone Roses
 	5. The Stone Roses
 
@@ -2435,6 +2813,8 @@
 
 	3. GO LIVE
 
+* Strike
+* Subvrbs
 * Sum 41 - [1/10]
 
 	9. All Killer, No Filler
@@ -2457,14 +2837,16 @@
 	12. Crime Of The Century (Remastered)
 
 * Surfaces
-* Survide Said The Prophet - [1/6]
+* Survide Said The Prophet - [2/6]
 
+	3. space[s]
 	5. FIXED
 
 * Sword, The - [1/9]
 
 	6. Apocryphon
 
+* SyKo
 * Symphony X - [1/10]
 
 	3. Paradise Lost
@@ -2485,8 +2867,11 @@
 
 	5. Flowering
 
+* TOOPOOR
+* TORIENA
 * TOTO
 * TRUE
+* TV Girl
 * Tacocat - [1/3]
 
 	1. This Mess Is a Place
@@ -2500,29 +2885,34 @@
 
 	5. The Party's Over
 
+* Tally Hall
 * Tame Impala
 * Tarcísio do Acordeon - [1/2]
 
 	1. Diferente dos Iguais
 
 * Tarja
+* Tassia Reis
 * Taylor Swift - [1/18]
 
 	12. Speak Now World Tour Live
 
 * Tayrone
-* Tchaikovsky - [3/16]
+* Tchaikovsky - [4/16]
 
 	3. The Musical Mind of Tchaikovsky
+	4. Tchaikovsky Hits
 	12. The Magical World of Tchaikovsky
 	14. Tchaikovsky: Symphony No 5, Op 64 & Serenade for Strings Op 48
 
+* Tchami
 * Tears For Fears - [2/12]
 
 	6. The Seeds Of Love
 	10. The Hurting
 
 * Tech N9ne
+* Television Blonde
 * Terco, O - [2/7]
 
 	2. Mudanca De Tempo
@@ -2540,12 +2930,18 @@
 
 	18. The Legacy
 
+* Tevomxntana
 * Textures - [1/6]
 
 	2. Polars (10th Anniversary Edition)
 
 * Thaeme & Thiago
+* The Books
 * The Chemical Brothers
+* The Chordettes - [1/32]
+
+	2. Classy Chordettes
+
 * The Cranberries
 * The Fevers - [3/25]
 
@@ -2561,11 +2957,16 @@
 	8. Live in Concert 1982
 
 * The HU
+* The Human League
+* The Living Tombstone
 * The Maine - [1/11]
 
 	6. Forever Halloween (Deuxe Version)
 
+* The Neighbourhood
 * The Ocean
+* The Oozes
+* The Police
 * The Watts Prophets
 * The Weeknd - [1/9]
 
@@ -2583,6 +2984,7 @@
 	3. Blessings Of The Highest Order
 	12. Rendon
 
+* Thug5tar
 * Tiao Carreiro & Pardinho
 * Tierry - [2/5]
 
@@ -2590,7 +2992,10 @@
 	4. Na Farra ou na Sofrência 2
 
 * Tihuana
-* Timbalada
+* Timbalada - [1/14]
+
+	4. Sucessos
+
 * Tinashe - [2/5]
 
 	1. Comfort & Joy
@@ -2606,6 +3011,7 @@
 * Tokio Myers
 * Tokyo Police Club
 * Tom Zé
+* Tomoko Aran
 * Ton Carfi
 * Tones And I
 * Tones and I
@@ -2637,11 +3043,13 @@
 * Trio Chapahall's
 * Tristão
 * Tropkillaz
-* Troye Sivan - [1/3]
+* Troye Sivan - [2/3]
 
 	1. Bloom
+	3. Blue Neighbourhood (Deluxe)
 
 * Tubaína
+* Tulipa Ruiz
 * Turma do Pagode - [1/13]
 
 	12. Dom De Sambar (Ao Vivo)
@@ -2649,6 +3057,7 @@
 * Twenty One Pilots
 * Twista
 * Tyler, The Creator
+* UCLA
 * UVERworld - [1/23]
 
 	4. ALL TIME BEST - BALLADE BEST (Re-Recording)
@@ -2659,14 +3068,21 @@
 	1. Echo in the Valley
 	3. Change in a Dynamic Environment
 
-* Uschowa
+* Urias
+* Uschowa - [1/6]
+
+	1. Luna
+
 * Used, The
 * Valley Of Chrome - [1/6]
 
 	1. Live Storm (Live Version)
 
 * Van Halen
-* Vandals, The
+* Vandals, The - [1/16]
+
+	3. Shingo Japanese Remix Album
+
 * Vasudeva - [2/4]
 
 	2. No Clearance
@@ -2679,6 +3095,7 @@
 
 * Velhas Virgens
 * Velvet Revolver
+* Vendredi sur Mer
 * Venom - [1/14]
 
 	9. Skeletons In the Closet
@@ -2698,6 +3115,7 @@
 	3. Espontâneos (Ao Vivo)
 	6. Minha Fortaleza
 
+* Vierre Cloud
 * Vintage Culture - [1/94]
 
 	11. Shining Soul
@@ -2707,12 +3125,14 @@
 	1. Scenarios of Brutality
 	3. Chemical Assault
 
-* Visigoth
 * Vitin
 * Vitor Kley
 * WANIMA
-* WINNER - [2/15]
+* WARGASM (UK)
+* WHOKILLEDXIX
+* WINNER - [3/15]
 
+	8. EVERYDAY
 	11. 2016 WINNER EXIT TOUR IN JAPAN
 	12. WINNER JAPAN TOUR 2015
 
@@ -2731,11 +3151,19 @@
 
 	1. 1^11=1 (POWER OF DESTINY)
 
-* Washington Brasileiro
+* Washington Brasileiro - [1/14]
+
+	8. 10 Anos de Sucesso, Vol 9
+
 * Wesley Safadão
 * Wham!
+* Wheatus
 * Whodini
-* Winterstorm
+* Winterstorm - [2/4]
+
+	1. Cube of Infinity
+	2. Kings Will Fall
+
 * Within Temptation
 * Wiz Khalifa - [3/22]
 
@@ -2748,10 +3176,17 @@
 	2. Wonder World
 	5. The Wonder Years
 
+* Wonderful☆Opportunity
 * XXXTENTACION - [1/7]
 
 	2. ? (Deluxe)
 
+* Xênia França
+* YN Jay - [1/8]
+
+	3. Flint Tropics
+
+* YOASOBI
 * Yamandu Costa - [1/21]
 
 	11. Concerto de Fronteira
@@ -2765,14 +3200,16 @@
 	23. Big Generator
 
 * Ying Yang Twins
+* Yoko Takahashi
 * Young Nudy
 * Young The Giant - [1/6]
 
 	6. Young The Giant
 
-* Yousei Teikoku - [2/8]
+* Yousei Teikoku - [3/8]
 
 	6. Gothic Lolita Doctrine
+	7. metanoia
 	8. GOTHIC LOLITA PROPAGANDA
 
 * Yui - [2/7]
@@ -2787,10 +3224,12 @@
 	1. Trashtalk
 	3. SEGURA ESSE MOLEQUE
 
-* Yung Pinch - [1/6]
+* Yung Pinch - [2/6]
 
 	3. Back 2 The Beach
+	4. 4EVERFRIDAY SZN TWO
 
+* Yunggoth☆
 * Zarastruta
 * Zeca Pagodinho
 * Zequinha de Abreu - [3/59]
@@ -2800,10 +3239,20 @@
 	40. 2017 American Bandmasters Association: The Dobyns-Bennet Wind Symphony
 
 * Zezo
+* ZillaKami
 * Zé Felipe
 * Zé Neto e Cristiano
 * Zé Vaqueiro
-* blackbear
+* be your own PET
+* blackbear - [1/6]
+
+	5. help
+
+* carolesdaughter
+* carwash
+* chelmico
+* convolk
+* d.ear
 * duendita
 * f(x) - [1/5]
 
@@ -2813,17 +3262,28 @@
 
 	1. THE WORLD
 
+* iamjakehill
+* k.xxiv
+* kamaitachi
+* mxmtoon
+* okayceci
+* plasterbrain
 * salem ilese - [1/13]
 
 	10. Impatient (The Remixes)
 
+* takayan
+* yvngxchris
 * Água de Moringa - [3/7]
 
 	2. Caderno Roubado
 	5. As Inéditas de Pixinguinha
 	7. Água de Moringa
 
-* É O Tchan
+* É O Tchan - [1/16]
+
+	14. É O Tchan Do Brasil
+
 * ラックライフ - [2/3]
 
 	2. Life is Beautiful
