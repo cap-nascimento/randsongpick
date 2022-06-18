@@ -53,3 +53,6 @@ The info between `[1/12]` says: You've listened 1 of 12 albums from Justin Biebe
 #### FURTHER IMPROVEMENTS
 
 I've got to confess: I made this program very fast, just because I was spending too much time generating random numbers on google, searching for artists that were already on my list and typing every single album, and changing the counters... So, if you have a suggestion (of course you have), let me know! You can open issues or even do a pull request.
+
+##### This project is in development phase for mobile (Kivy, maybe)
+
