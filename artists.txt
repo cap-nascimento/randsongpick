@@ -731,9 +731,10 @@
 	1. Host
 
 * Cutting Crew
-* Cynic - [2/7]
+* Cynic - [3/7]
 
 	1. Traced in Air Remixed
+	4. Kindly Bent to Free Us
 	5. The Portal tapes
 
 * Céu
@@ -1139,7 +1140,10 @@
 * Foreigner
 * Forfun
 * Forró Boys
-* Forró Perfeito
+* Forró Perfeito - [1/5]
+
+	3. Luau Do Forró Perfeito Ao Vivo Em Brasília - DF
+
 * Foster The People - [2/3]
 
 	1. Sacred Hearts Club
@@ -1489,9 +1493,10 @@
 
 	3. Amigos da Balada
 
-* Innacircle - [1/9]
+* Innacircle - [2/9]
 
 	2. True Voice (Incl
+	4. Hold On (Club Rework)
 
 * Insanity Alert - [1/3]
 
@@ -1666,7 +1671,10 @@
 
 	1. Jonas In Brasília (Ao Vivo)
 
-* Jonathan Yhome
+* Jonathan Yhome - [1/1]
+
+	1. Untitled
+
 * Jordan Rudess - [2/12]
 
 	4. Christmas Sky
@@ -1704,7 +1712,10 @@
 
 * Julian Casablancas
 * Julien Baker
-* Jun Togawa
+* Jun Togawa - [1/7]
+
+	6. 戸川階段
+
 * Junko Ohashi
 * Justice
 * Justin Bieber - [4/12]
@@ -2355,9 +2366,10 @@
 	10. Theatre of Pain
 	12. Too Fast For Love
 
-* NGC Daddy - [1/11]
+* NGC Daddy - [2/11]
 
 	2. Bag de Grife
+	11. Sangue Ruim
 
 * Naiara Azevedo - [4/5]
 
@@ -2603,8 +2615,9 @@
 
 	10. Gems
 
-* Paul Gilbert - [1/7]
+* Paul Gilbert - [2/7]
 
+	4. I Can Destroy
 	5. Space Ship One
 
 * Paul McCartney - [1/50]
@@ -2790,7 +2803,10 @@
 	1. Whales and Leeches (Deluxe Version)
 	2. Murder the Mountains (Deluxe Version)
 
-* Red Velvet
+* Red Velvet - [1/8]
+
+	7. The Velvet - The 2nd Mini Album
+
 * Reginaldo Rossi - [3/32]
 
 	14. Ao Vivo
@@ -2890,7 +2906,10 @@
 
 	10. Down With The King
 
-* Rush
+* Rush - [1/38]
+
+	33. All The World's A Stage
+
 * Ryokuoushoku Shakai - [1/2]
 
 	1. Singalong
@@ -3246,9 +3265,10 @@
 
 * TOOPOOR
 * TORIENA
-* TOTO - [2/24]
+* TOTO - [3/24]
 
 	3. 40 Tours Around The Sun (Live)
+	11. Livefields
 	12. Mindfields
 
 * TRUE
@@ -3293,7 +3313,10 @@
 	12. The Magical World of Tchaikovsky
 	14. Tchaikovsky: Symphony No 5, Op 64 & Serenade for Strings Op 48
 
-* Tchami
+* Tchami - [1/3]
+
+	1. Year Zero (Remixes)
+
 * Tears For Fears - [2/12]
 
 	6. The Seeds Of Love
@@ -3693,9 +3716,10 @@
 
 	1. 4 Walls - The 4th Album
 
-* go!go!vanillas - [1/4]
+* go!go!vanillas - [2/4]
 
 	1. THE WORLD
+	2. PANDORA
 
 * iamjakehill
 * k.xxiv
