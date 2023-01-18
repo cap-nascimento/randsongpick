@@ -203,7 +203,10 @@
 	1. Self-Titled
 
 * Artillery
-* As Baías
+* As Baías - [1/3]
+
+	1. Tarântula
+
 * Asa de Águia - [1/22]
 
 	1. Arraiá DAjuda Vol 2
@@ -476,8 +479,9 @@
 	2. Evil and Flowers
 	5. Blue Jam
 
-* Boris - [2/17]
+* Boris - [3/17]
 
+	1. Split
 	6. Pink (Deluxe)
 	9. Attention Please
 
@@ -779,10 +783,6 @@
 
 * Crystal Lake Thrash
 * Cuarteto Mayari
-* CueStack - [1/1]
-
-	1. Diagnosis:Human
-
 * Cults - [1/4]
 
 	1. Host
@@ -1094,7 +1094,10 @@
 
 * Eminence
 * Emperor
-* Enforcer
+* Enforcer - [1/8]
+
+	3. Zenith
+
 * Engenheiros do Hawaii - [1/20]
 
 	16. O Papa É Pop
@@ -1432,10 +1435,11 @@
 
 * Grover Washington, Jr
 * Grupo Clareou
-* Grupo Revelação - [3/22]
+* Grupo Revelação - [4/22]
 
 	8. O Bom Samba Continua - Ao Vivo Vol2
 	15. Velocidade da Luz
+	16. 360º Ao Vivo
 	21. Virou Religião
 
 * Gucci Mane
@@ -1626,7 +1630,10 @@
 	13. Live II 03 19 03
 
 * Iza
-* J Balvin
+* J Balvin - [1/10]
+
+	9. La Familia
+
 * JAEHYUN
 * JAY-Z
 * JIMMY EDGAR
@@ -1669,9 +1676,10 @@
 
 	6. The Velvet Rope
 
-* Jason Becker - [1/8]
+* Jason Becker - [2/8]
 
 	4. Jason Becker Collection
+	5. The Blackberry Jams
 
 * Jason Derulo
 * Jason Mraz - [3/13]
@@ -1691,8 +1699,9 @@
 
 	1. R U Looking 4 Me Now
 
-* Jeff Beck - [1/26]
+* Jeff Beck - [2/26]
 
+	10. Performing This Week... Live At Ronnie Scott's
 	16. Crazy Legs
 
 * Jeff Loomis - [1/2]
@@ -1894,10 +1903,6 @@
 	8. Section
 
 * Kesha
-* KevinKempt - [1/2]
-
-	1. middle of a stage
-
 * Khappa - [2/4]
 
 	1. Pure Energy
@@ -2043,7 +2048,10 @@
 	5. Gangsta de Internet
 	7. Super Dissgraca Gang2
 
-* Lily Allen
+* Lily Allen - [1/7]
+
+	3. Sheezus
+
 * Limbo - [1/6]
 
 	4. Early Works (1984-1987)
@@ -2275,9 +2283,10 @@
 	41. No Sleep
 	57. Make up Your Mind
 
-* Martinho da Vila - [2/58]
+* Martinho da Vila - [3/58]
 
 	7. Top Hits Ao Vivo Vol 2
+	19. VIP Collection
 	56. Martinho da Vila
 
 * Marty Friedman - [3/11]
@@ -2444,9 +2453,10 @@
 
 	28. March Or Die
 
-* Mozart - [1/16]
+* Mozart - [2/16]
 
 	5. Mozart: Piano 4 Hands
+	8. The Radiant Guitar
 
 * Mr. Big - [3/20]
 
@@ -2533,6 +2543,7 @@
 	3. ONE!
 
 * Nedarb
+* Nego Max
 * Neighbourhood, The - [1/6]
 
 	4. Wiped Out!
@@ -2778,7 +2789,10 @@
 	7. Icarus
 
 * Pest Control
-* Peter Gabriel
+* Peter Gabriel - [1/25]
+
+	2. Rated PG
+
 * Petrúcio Amorim - [1/7]
 
 	3. Petrúcio Amorim
@@ -3135,11 +3149,6 @@
 	1. MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 4
 	3. Dream Field
 
-* Seekae - [2/3]
-
-	1. The Worry
-	2. +DOME
-
 * Seether - [2/14]
 
 	3. Poison The Parish
@@ -3394,8 +3403,9 @@
 	5. 告白 / 僕らのあしあと
 	8. Today Is A Beautiful Day ~ Karaoke
 
-* Supertramp - [2/13]
+* Supertramp - [3/13]
 
+	2. Live 1999
 	6. paris
 	12. Crime Of The Century (Remastered)
 
@@ -3583,6 +3593,7 @@
 
 * Therion
 * Thiago Jhonathan (TJ)
+* Thinman&Sparrow
 * Third Person
 * Thou - [3/16]
 
@@ -3604,6 +3615,7 @@
 
 	4. Sucessos
 
+* Time, The Valuator
 * Tinashe - [3/5]
 
 	1. Comfort & Joy
@@ -3754,9 +3766,10 @@
 
 	11. Shining Soul
 
-* Violator - [2/3]
+* Violator - [3/3]
 
 	1. Scenarios of Brutality
+	2. Annihilation Process
 	3. Chemical Assault
 
 * Viper
