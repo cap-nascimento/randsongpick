@@ -92,8 +92,9 @@
 	5. Solo De Flauta
 	8. Chorinho, Vol 2 (Brazilian Roots)
 
-* Alter Bridge - [4/11]
+* Alter Bridge - [5/11]
 
+	1. Pawns & Kings
 	4. Live at the O2 Arena
 	6. The Last Hero
 	9. AB III
@@ -571,9 +572,10 @@
 
 * Cacife Gold
 * Cadaver
-* Caetano Veloso - [3/65]
+* Caetano Veloso - [4/65]
 
 	12. Bossa Now! Vol 4 - The Best of Caetano Veloso
+	47. Uns
 	54. Muitos Carnavais
 	56. Qualquer Coisa
 
@@ -1316,9 +1318,10 @@
 	3. Untouchable Glory
 	4. The Terror Tapes
 
-* Gamma Ray - [1/14]
+* Gamma Ray - [2/14]
 
 	9. Empire of the Undead (Streaming Version)
+	12. Live - Skeletons and Majesties
 
 * Gangrena Gasosa
 * Gardenian
@@ -1352,7 +1355,10 @@
 	5. Infestissumam
 
 * Ghost Brigade
-* Ghostemane
+* Ghostemane - [1/8]
+
+	2. N / O / I / S / E
+
 * Ghoul - [2/5]
 
 	3. Splatterthrash
@@ -2009,7 +2015,10 @@
 * Laura Branigan
 * Laura Les
 * Lazarus A.D.
-* Legion Of The Damned
+* Legion Of The Damned - [1/8]
+
+	3. Ravenous Plague
+
 * Legião Urbana
 * Leng Tch'e
 * Leo Santana - [3/7]
@@ -2104,6 +2113,7 @@
 	4. Monstereophonic (Theaterror vs Demonarchy)
 	8. Deadache
 
+* Lorna Shore
 * Louie Ray
 * Louis Armstrong - [3/134]
 
@@ -2694,9 +2704,10 @@
 	10. In Live Concert at the Royal Albert Hall
 	13. The Roundhouse Tapes
 
-* Oral Cigarettes, The - [2/5]
+* Oral Cigarettes, The - [3/5]
 
 	1. Suck My World
+	2. SUCK MY WORLD (Instrumental)
 	5. The BKW Show!!
 
 * Ore Ska Band - [3/7]
@@ -2718,9 +2729,10 @@
 	3. Any Time Now
 	10. Voices Of Babylon
 
-* Overkill - [1/24]
+* Overkill - [2/24]
 
 	1. The Wings of War
+	2. Live in Overhausen
 
 * Ozzy Osbourne
 * P!nk - [1/12]
@@ -3132,7 +3144,10 @@
 
 	2. Meu Canto (Ao Vivo No Teatro Municipal)
 
-* Sarcofago
+* Sarcofago - [1/6]
+
+	6. INRI
+
 * Satan
 * Savatage
 * Saves The Day - [1/13]
@@ -3853,8 +3868,9 @@
 	5. The Wonder Years
 
 * Wonderful☆Opportunity
-* XXXTENTACION - [1/7]
+* XXXTENTACION - [2/7]
 
+	1. LOOK AT ME: THE ALBUM
 	2. ? (Deluxe)
 
 * Xutos & Pontapés
