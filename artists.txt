@@ -1,3 +1,4 @@
+* -M-
 * 100 gecs
 * 10cc - [1/12]
 
@@ -161,7 +162,10 @@
 	5. Anitta
 
 * Anneke Van Giersbergen
-* Annihilator
+* Annihilator - [1/23]
+
+	12. Schizo Deluxe
+
 * Anthrax - [1/18]
 
 	9. The Sound of Live Noise: Live at the Wallace Civic Centre
@@ -222,9 +226,10 @@
 
 	1. Tarântula
 
-* Asa de Águia - [1/22]
+* Asa de Águia - [2/22]
 
 	1. Arraiá DAjuda Vol 2
+	6. Sou Asa
 
 * Asas Livres - [2/43]
 
@@ -385,6 +390,7 @@
 	5. Grind Bastard / Organised Chaos
 	7. Grind Bastard
 
+* Berimbrown
 * Beth Carvalho - [2/36]
 
 	24. Alma do Brasil
@@ -954,9 +960,10 @@
 	8. Liveage!
 	10. Milo Goes to College
 
-* Destiny's Child - [3/5]
+* Destiny's Child - [4/5]
 
 	1. Destiny Fulfilled
+	2. Destiny Fulfilled
 	3. 8 Days Of Christmas
 	4. 8 Days of Christmas (Deluxe)
 
@@ -1792,7 +1799,10 @@
 
 	1. Plains Of Oblivion
 
-* Jeff Satur
+* Jeff Satur - [1/27]
+
+	6. Fade
+
 * Jeito Moleque - [2/9]
 
 	3. Viva Vida
@@ -1891,10 +1901,6 @@
 * Jota Quest - [1/20]
 
 	14. Jota Quest exclusivo Hermes
-
-* Joy Again - [1/2]
-
-	1. Piano
 
 * Joyce Manor - [2/6]
 
@@ -2022,9 +2028,10 @@
 
 	6. Golden Best
 
-* Kleber Lucas - [1/27]
+* Kleber Lucas - [2/27]
 
 	4. Pela Fé
+	13. Meu Alvo (Playback)
 
 * Kool & The Gang - [1/26]
 
@@ -2610,7 +2617,7 @@
 	4. The Art of Partying
 
 * Mura Masa
-* Murilo Couto - [4/7]
+* Murilo Couto - [3/7]
 
 	4. Roupa de Frio no Calor
 	6. Multa
@@ -2688,7 +2695,10 @@
 
 	5. Depoimento do Poeta
 
-* Nena Queiroga
+* Nena Queiroga - [1/18]
+
+	5. Dois de Paus e uma Dama
+
 * Nenhum de Nós - [1/19]
 
 	17. Extraño
@@ -2744,10 +2754,11 @@
 	7. Time flies (Complete Edition)
 
 * Nohak
-* NoisyCell - [2/7]
+* NoisyCell - [3/7]
 
 	1. 8
 	4. Sources
+	5. Your Hands
 
 * Normani
 * Notorius BIG, The - [1/7]
@@ -3558,9 +3569,10 @@
 
 	9. All Killer, No Filler
 
-* Super Beaver - [3/9]
+* Super Beaver - [4/9]
 
 	4. 361º
+	5. aisuru
 	7. 未来の始かた
 	8. 幸福軌道
 
