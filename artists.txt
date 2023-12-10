@@ -1,18 +1,12 @@
+* (DOLCH)
 * -M-
 * 100 gecs
 * 10cc - [1/12]
 
 	6. Bloody Tourists
 
-* 2NE1 - [3/9]
-
-	4. 2NE1 2012 1st Global Tour - NEW EVOLUTION in Japan
-	5. 2012 2NE1 Global Tour Live New Evolution in Seoul
-	8. 2NE1 1st LIVE CONCERT [NOLZA!]
-
 * 2Pac
 * 2Z
-* 4Minute
 * 7!! - [1/6]
 
 	6. Anipps
@@ -64,6 +58,7 @@
 	4. Remagine: The Album - The Sessions
 	5. Prison of Desire: The Album - The Sessions (Remaster)
 
+* After The Burial
 * Afterclapp
 * Agnostic Front
 * Agustín Barrios Mangoré - [1/27]
@@ -94,6 +89,7 @@
 * Alison Wonderland
 * Alkaline Trio
 * All That Remains
+* All Them Witches
 * Allie X - [2/7]
 
 	2. Cape God (The Digital Concert)
@@ -111,14 +107,6 @@
 
 	5. Solo De Flauta
 	8. Chorinho, Vol 2 (Brazilian Roots)
-
-* Alter Bridge - [5/11]
-
-	1. Pawns & Kings
-	4. Live at the O2 Arena
-	6. The Last Hero
-	9. AB III
-	11. One Day Remains
 
 * Amado Batista
 * Amazan
@@ -306,7 +294,6 @@
 * Ayesha Erotica
 * Azealia Banks
 * Azzy
-* BABYMETAL
 * BERNTH
 * BIA DOXUM
 * BLACKPINK
@@ -335,6 +322,7 @@
 
 	1. EL ÚLTIMO TOUR DEL MUNDO
 
+* Bad Religion
 * Baden Powell - [5/65]
 
 	4. Legend of Brazilian Guitar Vol 2
@@ -394,6 +382,7 @@
 	20. Its My Party
 
 * Bebe Rexha
+* Beck
 * Beethoven
 * Behemoth - [2/15]
 
@@ -430,6 +419,7 @@
 	7. I Am
 	8. I AM
 
+* Bia Ferreira
 * Big Time Rush
 * Bikini Kill - [4/5]
 
@@ -461,6 +451,7 @@
 
 * Black Gryph0n
 * Black Label Society
+* Black Midi
 * Black Moth - [1/3]
 
 	3. The Killing Jar
@@ -487,6 +478,7 @@
 
 * Blaze Bayley
 * Bleed From Within
+* Blind Channel
 * Blind Guardian - [2/16]
 
 	2. Live Beyond The Spheres
@@ -520,6 +512,8 @@
 	4. Murder 4 Hire
 	5. The Smoke Out Festival
 
+* Bodysnatcher
+* Bokassa
 * Bolt Thrower
 * Bom Gosto - [2/5]
 
@@ -579,10 +573,12 @@
 	6. Sempiternal (Expanded Edition)
 	8. Suicide Season (Deluxe Edition)
 
+* Brothers Of Metal
 * Bruce Springsteen - [1/31]
 
 	30. The Wild, The Innocent & The E Street Shuffle
 
+* Brujeria
 * Bruno Mars
 * Bryan Adams - [2/23]
 
@@ -625,9 +621,10 @@
 * CLASS:y
 * CMTEN
 * COUCOU CHLOE
-* Cabruêra - [3/5]
+* Cabruêra - [4/5]
 
 	2. Cabruêra
+	3. Nordeste Oculto
 	4. O Samba da Minha Terra
 	5. O Samba da Minha Terra
 
@@ -643,6 +640,7 @@
 * Cage The Elephant
 * Caio Luccas
 * Caliban
+* Callejon
 * Calvin Harris
 * Camilo
 * Camisa Suada - [1/5]
@@ -656,6 +654,7 @@
 
 	3. Torturing And Eviscerating
 
+* Cansei de ser sexy
 * Capital Inicial
 * Carcass
 * Cardi B - [1/4]
@@ -734,11 +733,6 @@
 * Childish Gambino - [1/7]
 
 	6. Camp
-
-* Children Of Bodom - [2/13]
-
-	6. Skeletons in the Closet (International Version)
-	11. Hatebreeder
 
 * Chimaira
 * Chimarruts
@@ -876,6 +870,7 @@
 
 * Crystal Lake Thrash
 * Cuarteto Mayari
+* Cult Of Fire
 * Cults - [1/4]
 
 	1. Host
@@ -899,6 +894,7 @@
 	5. MOONRISE
 
 * DIVINE
+* DJ Playero
 * DJ Scheme - [1/2]
 
 	2. FAMILY
@@ -1118,10 +1114,6 @@
 	21. Awake
 	22. Live At The Marquee
 
-* Dropkick Murphys - [1/8]
-
-	7. The Gang's All Here 
-
 * Drowned
 * Dua Lipa - [3/4]
 
@@ -1137,6 +1129,7 @@
 
 * Duzz
 * Dying Fetus
+* Dymytry
 * E-An-Na - [1/4]
 
 	1. Alveolar
@@ -1166,6 +1159,7 @@
 
 * Egberto Gismonti
 * Ektomorf
+* El Mató A Un Policía Motorizado
 * Elana Dara
 * Elba Ramalho
 * Electric Light Orchestra - [4/17]
@@ -1216,6 +1210,7 @@
 
 	16. O Papa É Pop
 
+* Enter Shikari
 * Entombed - [1/16]
 
 	12. Wolverine Blues (Full Dynamic Range Edition)
@@ -1260,6 +1255,7 @@
 	7. The Open Door
 	8. Fallen
 
+* Evil Invaders
 * Exaltasamba - [1/20]
 
 	19. Luz Do Desejo
@@ -1341,6 +1337,7 @@
 	5. Seja o que Deus quiser
 	6. Seja o que Deus quiser
 
+* Feuerschwanz
 * Fifth Harmony
 * Fight
 * Firewind
@@ -1348,7 +1345,9 @@
 
 	4. Rammarichi
 
+* Fixation
 * Fleshgod Apocalypse
+* Flogging Molly
 * Flora Matos - [2/3]
 
 	1. FLORA DE CONTROLE
@@ -1397,7 +1396,9 @@
 
 * Full Of Hell
 * Funkist
+* Future Palace
 * G-DRAGON
+* GGGOLDDD
 * GOT7 - [1/14]
 
 	4. &ME Edition
@@ -1471,6 +1472,7 @@
 
 	6. Eudora
 
+* Getúlio Abelha
 * Ghost - [1/7]
 
 	5. Infestissumam
@@ -1549,11 +1551,13 @@
 	23. Heart Of Darkness
 	25. The Reaper
 
+* Graveyard
 * Green Day - [2/16]
 
 	3. Father of All
 	16. 1039 / Smoothed out Slappy Hours
 
+* Green Lung
 * Greta Van Fleet - [1/2]
 
 	2. From The Fires
@@ -1583,6 +1587,7 @@
 
 	1. Pra Não Desgrudar (Ao Vivo)
 
+* Guilt Trip
 * Guns N' Roses - [1/7]
 
 	5. GN'R Lies
@@ -1661,6 +1666,7 @@
 
 * Henrique Cazes
 * Herbert Vianna
+* Heretoir
 * Hermeto Pascoal
 * High On Fire - [1/11]
 
@@ -1727,6 +1733,7 @@
 
 * IZA
 * Iara Rennó
+* Ice Nine Kills
 * Iced Earth - [2/19]
 
 	3. Plagues of Babylon
@@ -1785,6 +1792,7 @@
 
 * JAEHYUN
 * JAY-Z
+* JBO
 * JIMMY EDGAR
 * JJ Project
 * Ja Rule - [2/8]
@@ -1887,6 +1895,7 @@
 	2. Sweet Talker (Deluxe Version)
 	5. Who you Are (Platinum Edition)
 
+* Jesus Piece
 * Jetlag Music - [2/47]
 
 	7. Roda Gigante (PRINSH Remix)
@@ -1902,6 +1911,7 @@
 
 	11. Static Prevails
 
+* Jinjer
 * Jme
 * JoJo - [1/7]
 
@@ -1992,6 +2002,7 @@
 	7. ゴールデン☆ベスト大橋純子シングルス
 
 * Jup do Bairro
+* Just Mustard
 * Justice
 * Justin Bieber - [5/12]
 
@@ -2078,6 +2089,7 @@
 	1. Pure Energy
 	4. Latido
 
+* Khemmis
 * Kiana Ledé
 * Kikuo
 * Killer Be Killed
@@ -2103,6 +2115,7 @@
 	13. Meu Alvo (Playback)
 
 * Knife Party
+* Komodrag & The Mounodor
 * Kool & The Gang - [1/26]
 
 	8. Emergency
@@ -2111,6 +2124,7 @@
 
 	4. The Paradigm Shift (World Tour Edition)
 
+* Korpiklaani
 * Kousuke Atari
 * Kreator - [1/28]
 
@@ -2274,6 +2288,7 @@
 
 	2. STUMMFILM - Live from Hamburg
 
+* Lord Of The Lost
 * Lorde - [2/4]
 
 	1. Solar Power
@@ -2308,6 +2323,7 @@
 	4. Di Boa Sessions 4
 	5. Soundtrack for an Anime That Never Existed
 
+* Lucrecia Dalt
 * Ludacris - [3/11]
 
 	3. Battle Of The Sexes (Deluxe)
@@ -2353,6 +2369,7 @@
 	2. Froot
 	4. Electra Heart (Deluxe)
 
+* MC Bin Laden
 * MC Cabelinho
 * MC Carol
 * MC Fioti - [3/63]
@@ -2482,7 +2499,9 @@
 	33. Somewhere Else
 	39. Made Again (Live)
 
+* Marina Herlop
 * Marina Sena
+* Marisa Monte
 * Maroon 5 - [1/16]
 
 	16. Songs About Jane 10th Anniversary Edition
@@ -2536,6 +2555,7 @@
 	39. Acústico
 
 * Matanza
+* Mateus Fazeno Rock
 * Matheus & Kauan - [1/8]
 
 	7. Face A Face (Live)
@@ -2570,11 +2590,7 @@
 	31. Que Maravilha
 
 * McCafferty
-* Megadeth - [2/32]
-
-	14. Warchest
-	16. The System Has Failed
-
+* Megaherz
 * Megan Thee Stallion - [1/7]
 
 	4. Fever
@@ -2585,6 +2601,7 @@
 	2. Melim Ao Vivo
 
 * Men I Trust
+* Mental Cruelty
 * Mercyful Fate
 * Meshuggah - [2/16]
 
@@ -2597,6 +2614,7 @@
 
 	23. Kill 'Em All (Remastered)
 
+* Metric
 * Michael Jackson - [3/17]
 
 	5. Gold
@@ -2659,6 +2677,7 @@
 	27. Days Of Future Passed (Remastered 2017)
 	28. The Magnificent Moodies
 
+* Moon Shot
 * Moonspell - [1/18]
 
 	9. Irreligious (Reissue)
@@ -2669,6 +2688,7 @@
 	14. Altars of Madness
 	15. Altars of Madness
 
+* Morne
 * Morrissey - [4/16]
 
 	2. California Son
@@ -2677,6 +2697,7 @@
 	14. Kill Uncle (2013 Remaster)
 
 * Mother Mother
+* Motionless In White
 * Motörhead - [1/47]
 
 	28. March Or Die
@@ -2702,6 +2723,7 @@
 	3. By The People, For The People
 
 * Mumuzinho
+* Muna
 * Municipal Waste - [2/6]
 
 	2. The Fatal Feast
@@ -2732,6 +2754,7 @@
 	11. Sangue Ruim
 
 * NIKITO
+* Nachtblut
 * Naiara Azevedo - [4/5]
 
 	1. SIM (Deluxe) (ao Vivo)
@@ -2770,6 +2793,8 @@
 	33. Hair Of The dog
 
 * Ne-Yo
+* Neaera
+* Necrotted
 * Necry Talkie - [2/3]
 
 	2. ZOO!!
@@ -2786,6 +2811,7 @@
 
 	5. Depoimento do Poeta
 
+* Nelson D & Edgar
 * Nena Queiroga - [1/18]
 
 	5. Dois de Paus e uma Dama
@@ -2879,6 +2905,7 @@
 	11. Lado B Lado A
 
 * O Super
+* OFF!
 * ONE OK ROCK - [4/9]
 
 	3. 35xxxv
@@ -2938,6 +2965,7 @@
 	5. The BKW Show!!
 
 * Orbital
+* Orden Ogan
 * Ore Ska Band - [3/7]
 
 	3. Hot Number
@@ -2957,6 +2985,7 @@
 
 * Oswaldo Montenegro
 * Otoboke Beaver
+* Our Promise
 * Outfield, The - [2/11]
 
 	3. Any Time Now
@@ -2982,6 +3011,7 @@
 * PUNPEE
 * Pabllo Vittar
 * Pale Waves
+* Paleface Swiss
 * Panic! At the Disco
 * Pantera - [3/12]
 
@@ -3047,6 +3077,7 @@
 	7. Icarus
 
 * Pest Control
+* Pet Shop Boys
 * Pete Tong
 * Peter Gabriel - [1/25]
 
@@ -3089,6 +3120,7 @@
 	4. Hemp New Year
 
 * Planningtorock
+* Pluma
 * Plustwo
 * Plácido Domingo
 * Pnau
@@ -3153,6 +3185,7 @@
 
 	3. Loud Is Not Enough
 
+* Puerto Candelaria
 * Punkinloveee
 * Pupil Slicer
 * Pussycat Dolls, The
@@ -3358,6 +3391,7 @@
 	1. リズム
 	2. Best Story 
 
+* Róisín Murphy
 * S.O.D. Stormtroopers of Death
 * SARUKANI
 * SEKAI NO OWARI
@@ -3454,6 +3488,7 @@
 	3. Água-Viva
 
 * Seu Jorge
+* Seun Kuti & Egypt 80
 * Seven Lions
 * Sevendust - [1/19]
 
@@ -3475,6 +3510,7 @@
 
 * Shiki-TMNS
 * Shin Sakiura
+* Shining
 * Shiro Sagisu
 * Shoko Nakagawa - [1/12]
 
@@ -3494,6 +3530,7 @@
 	11. Some People Have REAL Problems
 	12. Colour The Small One (Deluxe Edition)
 
+* Siamese
 * Siamese Cats - [2/3]
 
 	1. Virgin Graffiti
@@ -3553,12 +3590,15 @@
 
 	6. All Hope Is Gone
 
+* Slipmami
 * Slough Feg - [3/6]
 
 	3. The Animal Spirits
 	5. Hardworlder
 	6. Atavism
 
+* Slowdive
+* Smackbound
 * Smino
 * Smiths, The - [2/7]
 
@@ -3576,6 +3616,7 @@
 	10. COOLAID
 	20. Presents Welcome To Tha Chuuch Tha Album
 
+* Soccer Mommy
 * Socorro Lira - [1/15]
 
 	1. Chama
@@ -3670,6 +3711,7 @@
 
 * Stevie T.
 * Stiff Little Fingers
+* Stinky
 * Stone Roses, The - [4/5]
 
 	1. Second Coming
@@ -3693,6 +3735,7 @@
 * Strike
 * Stroka
 * Subvrbs
+* Subway To Sally
 * Suffocation
 * Suicidal Angels
 * Suicidal Tendencies
@@ -3756,6 +3799,7 @@
 
 	5. Flowering
 
+* TOKiMONSTA
 * TOOPOOR
 * TORIENA
 * TOTO - [3/24]
@@ -3824,6 +3868,8 @@
 	5. (You Were My) Nightmare on Elm Street
 	6. Kiss Me At The Camp Crystal Lake
 
+* Ten56
+* Tenside
 * Terco, O - [2/7]
 
 	2. Mudanca De Tempo
@@ -3836,6 +3882,7 @@
 	10. Três Meninas do Brasil Ao Vivo
 
 * Terno Rei
+* Terraplana
 * Terrorizer
 * TesseracT - [2/9]
 
@@ -3856,8 +3903,11 @@
 
 	2. Química (Ao Vivo em São Paulo)
 
+* The Amity Affliction
 * The Black Dahlia Murder
+* The Blessed Madonna
 * The Books
+* The Butcher Sisters
 * The Chainsmokers
 * The Chemical Brothers - [2/12]
 
@@ -3869,6 +3919,7 @@
 	2. Classy Chordettes
 
 * The Cranberries
+* The Cure
 * The Fevers - [4/25]
 
 	4. 20 Super Sucessos: The Fevers (Ao Vivo)
@@ -3886,8 +3937,10 @@
 * The Gathering
 * The HU
 * The Haunted
+* The Hives
 * The Human League
 * The Kid LAROI
+* The Killers
 * The Living Tombstone
 * The Maine - [1/11]
 
@@ -3903,6 +3956,7 @@
 * The Police
 * The Prodigy
 * The Stickmen Project
+* The Twilight Sad
 * The Watts Prophets - [1/3]
 
 	1. Ebony Creole Whispers
@@ -3931,8 +3985,10 @@
 	12. Rendon
 
 * Threat - Brazil
+* Thrown
 * Thug5tar
 * Thundercat
+* Thursday
 * Thy Art Is Murder
 * Tiao Carreiro & Pardinho
 * Tierry - [2/5]
@@ -4112,6 +4168,7 @@
 	1. Só por Você
 
 * Vitor Kley
+* Voodoo Kiss
 * W.A.S.P.
 * WANIMA
 * WARGASM (UK)
@@ -4146,6 +4203,7 @@
 
 	1. 1^11=1 (POWER OF DESTINY)
 
+* Warkings
 * Washington Brasileiro - [2/14]
 
 	8. 10 Anos de Sucesso, Vol 9
@@ -4159,6 +4217,7 @@
 	3. Too Soon Moonsoon
 	5. Wheatus
 
+* Whitechapel
 * Whodini - [1/7]
 
 	6. Bag-A-Trix
@@ -4168,6 +4227,7 @@
 	1. Cube of Infinity
 	2. Kings Will Fall
 
+* Wintersun
 * Within Temptation
 * Wiz Khalifa - [4/22]
 
@@ -4182,6 +4242,7 @@
 	5. The Wonder Years
 
 * Wonderful☆Opportunity
+* Wormrot
 * XAXIM
 * XXXTENTACION - [2/7]
 
@@ -4291,6 +4352,7 @@
 * takayan
 * yvngxchris
 * ÀTTØØXXÁ
+* Àiyé
 * Água de Moringa - [3/7]
 
 	2. Caderno Roubado
