@@ -1,12 +1,14 @@
 * (DOLCH)
 * -M-
 * 100 gecs
+* 1000mods
 * 10cc - [1/12]
 
 	6. Bloody Tourists
 
 * 2Pac
 * 2Z
+* 311
 * 7!! - [1/6]
 
 	6. Anipps
@@ -159,6 +161,7 @@
 	2. Bang
 	5. Anitta
 
+* Ankor
 * Anneke Van Giersbergen
 * Annihilator - [1/23]
 
@@ -240,6 +243,7 @@
 
 	16. 君繋ファイブエム
 
+* Asinhell
 * Asphyx - [2/15]
 
 	2. Incoming Death
@@ -456,6 +460,7 @@
 
 	3. The Killing Jar
 
+* Black Rainbows
 * Black Sabbath - [3/26]
 
 	6. Dehumanizer
@@ -784,6 +789,7 @@
 
 	1. Unleeched
 
+* Clawfinger
 * Clean Bandit
 * Clutch - [3/23]
 
@@ -836,6 +842,7 @@
 	1. Mis-Take
 
 * Corpsegrinder
+* Corrosion of Conformity
 * Costa Gold - [1/7]
 
 	3. Cacife Gold, Vol 1
@@ -1114,6 +1121,7 @@
 	21. Awake
 	22. Live At The Marquee
 
+* Dropout Kings
 * Drowned
 * Dua Lipa - [3/4]
 
@@ -1158,6 +1166,8 @@
 	13. The Savage Poetry
 
 * Egberto Gismonti
+* Eight Sins
+* Einar Solberg
 * Ektomorf
 * El Mató A Un Policía Motorizado
 * Elana Dara
@@ -1227,6 +1237,7 @@
 
 	3. Classics II
 
+* Ereb Altor
 * Ergs, The - [1/6]
 
 	5. The Ergs Live at Maxwell's 06/25/2005
@@ -1395,6 +1406,7 @@
 	7. Chopin: Music for focus
 
 * Full Of Hell
+* Fumanchu
 * Funkist
 * Future Palace
 * G-DRAGON
@@ -1538,6 +1550,7 @@
 
 * Good Charlotte
 * Gorillaz
+* Gozu
 * Grag Queen
 * Granrodeo - [1/12]
 
@@ -1633,6 +1646,7 @@
 
 	2. Harmonia do Samba - Ao Vivo Em Brasília
 
+* Harms Way
 * Harper - [1/3]
 
 	3. Falling
@@ -1694,6 +1708,7 @@
 	6. Cold Rain
 	12. アコギな二人旅だぜ!!
 
+* Hitsujibungaku
 * Hobo Johnson - [1/4]
 
 	4. The Rise of Hobo Johnson
@@ -1704,6 +1719,7 @@
 	1. Equivalency II: Everything We Left Out
 	6. Everything We Could Have Done Differently
 
+* Houle
 * House Of Pain - [1/3]
 
 	2. House of Pain (Fine Malt Lyrics)
@@ -1750,6 +1766,7 @@
 * Imanbek
 * Immolation
 * Impaled Nazarene
+* Imperial Crystalline Entombment
 * In Flames - [1/17]
 
 	3. I, the Mask
@@ -2047,9 +2064,12 @@
 * Kalmah
 * Kamelot
 * Kaniyuki Takahashi
+* Kanonenfieber
 * Kant
 * Kaoru Akimoto
 * Karina Buhr
+* Karma Zero
+* Karnivool
 * Karol Conká
 * Kaskade
 * Kataklysm
@@ -2114,6 +2134,7 @@
 	4. Pela Fé
 	13. Meu Alvo (Playback)
 
+* Klone
 * Knife Party
 * Komodrag & The Mounodor
 * Kool & The Gang - [1/26]
@@ -2284,6 +2305,7 @@
 	11. STAIN
 	15. Vivid (Expanded Edition)
 
+* Lofofora
 * Long Distance Calling - [1/8]
 
 	2. STUMMFILM - Live from Hamburg
@@ -2308,6 +2330,7 @@
 	82. Vol V: Louis In New York
 	100. Hello, Dolly! (Remastered)
 
+* Lovebites
 * Luca Turilli - [1/4]
 
 	1. Lost Horizons (Luca Turilli's Dream Quest)
@@ -2688,6 +2711,7 @@
 	14. Altars of Madness
 	15. Altars of Madness
 
+* Mork
 * Morne
 * Morrissey - [4/16]
 
@@ -2792,8 +2816,10 @@
 
 	33. Hair Of The dog
 
+* Ne Obliviscaris
 * Ne-Yo
 * Neaera
+* Nebula
 * Necrotted
 * Necry Talkie - [2/3]
 
@@ -3010,6 +3036,7 @@
 * PEDRO SAMPAIO
 * PUNPEE
 * Pabllo Vittar
+* Pain of Salvation
 * Pale Waves
 * Paleface Swiss
 * Panic! At the Disco
@@ -3263,6 +3290,7 @@
 	1. Whales and Leeches (Deluxe Version)
 	2. Murder the Mountains (Deluxe Version)
 
+* Red Sun Atacama
 * Red Velvet - [1/8]
 
 	7. The Velvet - The 2nd Mini Album
@@ -3415,6 +3443,7 @@
 
 * Sacred Reich
 * Sadus
+* Saint Agnes
 * Sam Smith - [1/4]
 
 	1. Love Goes
@@ -3445,6 +3474,8 @@
 
 * Sasha
 * Satan
+* Satyricon
+* Savage Lands
 * Savatage
 * Saves The Day - [1/13]
 
@@ -3499,6 +3530,7 @@
 	1. SECTOR 17
 
 * Shadows Fall
+* Shaka Ponk
 * Shakira - [1/14]
 
 	7. Oral Fixation, Vol 2 (Expanded Edition)
@@ -3516,6 +3548,7 @@
 
 	10. Magic Time 
 
+* Shores of Null
 * Shota Shimizu - [2/12]
 
 	3. White
@@ -3599,6 +3632,7 @@
 
 * Slowdive
 * Smackbound
+* Smash Hit Combo
 * Smino
 * Smiths, The - [2/7]
 
@@ -3630,6 +3664,7 @@
 
 * Soilwork
 * Solange
+* Solitaris
 * Som Nosso De Cada Dia
 * Sonata Arctica - [2/15]
 
@@ -3657,6 +3692,7 @@
 	10. Sisters Remixes
 
 * Soulfly
+* Speed
 * Spice Girls
 * Spinardi - [1/12]
 
@@ -3689,6 +3725,7 @@
 
 	10. Cannibal Killers Live
 
+* Steel Panther
 * Steezy Knicks
 * Stegosaurus Rex
 * Steve Angello
@@ -3903,6 +3940,7 @@
 
 	2. Química (Ao Vivo em São Paulo)
 
+* The Acacia Strain
 * The Amity Affliction
 * The Black Dahlia Murder
 * The Blessed Madonna
@@ -3920,6 +3958,7 @@
 
 * The Cranberries
 * The Cure
+* The Devil's Trade
 * The Fevers - [4/25]
 
 	4. 20 Super Sucessos: The Fevers (Ao Vivo)
@@ -4019,6 +4058,7 @@
 
 * Tokio Hotel
 * Tokyo Police Club
+* Tom Morello
 * Tom Petty
 * Tom Zé - [1/24]
 
@@ -4203,6 +4243,7 @@
 
 	1. 1^11=1 (POWER OF DESTINY)
 
+* Wargasm
 * Warkings
 * Washington Brasileiro - [2/14]
 
@@ -4217,6 +4258,7 @@
 	3. Too Soon Moonsoon
 	5. Wheatus
 
+* While She Sleeps
 * Whitechapel
 * Whodini - [1/7]
 
@@ -4228,6 +4270,7 @@
 	2. Kings Will Fall
 
 * Wintersun
+* Witch
 * Within Temptation
 * Wiz Khalifa - [4/22]
 
