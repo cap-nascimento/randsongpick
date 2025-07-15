@@ -1704,6 +1704,7 @@
 
 * Harppia
 * Havok
+* Haze
 * Heart
 * Hearts Grow - [5/6]
 
@@ -2202,6 +2203,7 @@
 
 * Klone
 * Knife Party
+* Kokeshi
 * Komodrag & The Mounodor
 * Konvent
 * Kool & The Gang - [1/26]
@@ -4112,6 +4114,7 @@
 * The Orb
 * The Police
 * The Prodigy
+* The Same Band
 * The Stickmen Project
 * The Troops Of Doom
 * The Twilight Sad
@@ -4528,6 +4531,7 @@
 
 * sumika
 * takayan
+* tricot
 * yvngxchris
 * ÀTTØØXXÁ
 * Àiyé
